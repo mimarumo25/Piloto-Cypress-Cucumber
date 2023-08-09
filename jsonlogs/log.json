@@ -1,0 +1,63 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "como-usuario-quiero-ingresar-a-la-web-de-color-lib-para-realizar-login-exitos;login-exitos-con-usuario-y-password",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Login Exitos con usuario y password",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "como usuario quiero abrir la web color lib",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 42987000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "digitar usuario y password",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 872000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "el usuario podra ver en pantalla el dashboard",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 118000000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "como-usuario-quiero-ingresar-a-la-web-de-color-lib-para-realizar-login-exitos",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Como usuario quiero ingresar a la web de color lib para realizar login exitos",
+    "tags": [],
+    "uri": "cypress\\e2e\\features\\piloto.feature"
+  }
+]
