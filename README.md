@@ -1,16 +1,17 @@
-# Descripción del Proyecto
+# Automatizacion Web Con CYPRESS + CUCUMBER-PREPROCESSOR + GHERKIN multiple-cucumber-html-reporter 
 
-Este proyecto contiene pruebas automatizadas utilizando Cypress y Cucumber para probar la funcionalidad de inicio de sesión en el sitio web de Color Lib.
-
+Este proyecto contiene pruebas automatizadas utilizando Cypress y Cucumber 
 ## Comandos
-
-np
+## get started
+NPM
+- `https://github.com/mimarumo25/Piloto-Cypress-Cucumber.git`: Clona el repositorio en su maquina
+- `npm install `: Intala las dependencias del Proyecto
 
 - `npm run cypress:runner`: Abre el Cypress Test Runner en Chrome para pruebas de extremo a extremo.
 - `npm run cypress:execution`: Ejecuta las pruebas de extremo a extremo en modo headless (sin interfaz gráfica).
 - `npm run reporter`: Genera un informe HTML a partir de los resultados de las pruebas.
 
-## Característica
+
 
 ### Descripción
 
